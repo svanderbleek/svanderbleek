@@ -2,10 +2,10 @@
 
 I have been learning Rust and contributing to projects that interest me, anything involving computational logic or formal methods
 
-* https://github.com/pubgrub-rs/pubgrub/pull/146
 * https://github.com/cedar-policy/cedar/pull/406
 * https://github.com/cedar-policy/cedar/pull/408
 * https://github.com/cedar-policy/cedar/pull/411
+* https://github.com/pubgrub-rs/pubgrub/pull/146
 
 ## Past Highlights
 
