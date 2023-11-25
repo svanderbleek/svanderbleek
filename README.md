@@ -1,5 +1,16 @@
-### Hi there 👋
+## Recent Open Source Work
 
-* my research interests are computational logic, automated theorem proving, programming language theory, and computational thinking for algorithmic problem solving
-* I'm focused on my career and making the transition from Senior Software Engineer to Staff Software Engineer
-* I would eventually like to work in embedded/systems/distributed programming, machine learning/AI, or compilers but my background is in web development and I'm not ready to invest in projects currently
+I have been learning Rust and contributing to projects that interest me, anything involving computational logic or formal methods
+
+* https://github.com/pubgrub-rs/pubgrub/pull/146
+* https://github.com/cedar-policy/cedar/pull/406
+* https://github.com/cedar-policy/cedar/pull/411
+
+## Past Highlights
+
+I have code in Ruby's build tool Rake and have contributed to a few other open source projects here and there.
+
+* https://github.com/jimweirich/rake/pull/264
+* https://github.com/discourse/discourse/pull/475
+* https://github.com/thoughtbot/griddler/pull/34
+* https://github.com/capistrano/capistrano/pull/992
