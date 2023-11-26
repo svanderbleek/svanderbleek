@@ -1,6 +1,6 @@
 # Welcome
 
-This is a barebones portfolio, but if you're a fellow engineer who'd like to discuss software development or computer science I'm always open, you can reach out on my X profile which is linked under my photo.
+This is a barebones portfolio, but if you're a fellow engineer who'd like to discuss software development or computer science I'm always open, you can reach out on my X profile which is linked under my photo. If you're looking for mentorship check out my reviews on [codementor](https://www.codementor.io/@svanderbleek).
 
 ## Recent Open Source Work
 
