@@ -1,6 +1,6 @@
 # Welcome
 
-This is a barebones portfolio, but if you're a fellow engineer who'd like to discuss software development or computer science I'm always open, you can reach out on my X profile which is linked here.
+This is a barebones portfolio, but if you're a fellow engineer who'd like to discuss software development or computer science I'm always open, you can reach out on my X profile which is linked under my photo.
 
 ## Recent Open Source Work
 
