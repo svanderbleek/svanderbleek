@@ -1,6 +1,8 @@
-# Welcome
+## Some brags
 
-This is a barebones portfolio, but if you're a fellow engineer who'd like to discuss software development or computer science I'm always open, you can reach out on my X profile which is linked under my photo. If you're looking for mentorship check out my reviews on [codementor](https://www.codementor.io/@svanderbleek).
+* My online teaching has led to 36 5 star reviews on [codementor](https://www.codementor.io/@svanderbleek)
+* Have spoken at meetups and conferences, here's a short Papers We Love NYC talk on [unification](https://paperswelove.org/2018/video/sandy-vanderbleek-a-widespread-error-in-unification-algorithms/)
+* Went to Oregon Programming Languages Summer School in [2017](https://www.cs.uoregon.edu/research/summerschool/summer17/participants.php)
 
 ## Recent Open Source Work
 
