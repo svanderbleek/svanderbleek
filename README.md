@@ -1,3 +1,7 @@
+# Welcome
+
+This is my barebones professional portfolio. If you'd like to chat reach out to me on [X](https://x.com/haskellandchill). I'm always interested in talking about computer science and the tech industry or offering early and mid career mentorship.
+
 ## Some brags
 
 * My online teaching has led to 36 5 star reviews on [codementor](https://www.codementor.io/@svanderbleek)
