@@ -1,6 +1,10 @@
+# Welcome
+
+This is a barebones portfolio, but if you're a fellow engineer who'd like to discuss software development or computer science I'm always open, you can reach out on my X profile which is linked here.
+
 ## Recent Open Source Work
 
-I have been learning Rust and contributing to projects that interest me, anything involving computational logic or formal methods
+I have been learning Rust and contributing to projects that interest me, anything involving computational logic or formal methods.
 
 * https://github.com/cedar-policy/cedar/pull/406
 * https://github.com/cedar-policy/cedar/pull/408
