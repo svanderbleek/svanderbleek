@@ -1,6 +1,6 @@
 ## Hi 👋
 
-This is my barebones professional portfolio. DMs are open if you'd like to chat, I'm always interested in talking about computer science and the tech industry or offering early and mid career mentorship.
+This is my professional portfolio. DMs are open if you'd like to chat, I'm always interested in talking about computer science and the tech industry or offering early and mid career mentorship.
 
 ## Some brags
 
