@@ -1,6 +1,6 @@
 ## Hi 👋
 
-This is my barebones professional portfolio. If you'd like to chat reach out to me on [X](https://x.com/haskellandchill). I'm always interested in talking about computer science and the tech industry or offering early and mid career mentorship.
+This is my barebones professional portfolio. DMs are open if you'd like to chat, I'm always interested in talking about computer science and the tech industry or offering early and mid career mentorship.
 
 ## Some brags
 
