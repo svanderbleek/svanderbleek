@@ -2,7 +2,7 @@
 
 This is my professional portfolio. If you'd like to chat, I'm always interested in talking about computer science and the tech industry or offering early and mid career mentorship. Reach out to me on X.
 
-## Some brags
+## Some Background
 
 * My online teaching has led to 36 5 star reviews on [codementor](https://www.codementor.io/@svanderbleek)
 * Have spoken at meetups and conferences, here's a short Papers We Love NYC talk on [unification](https://paperswelove.org/2018/video/sandy-vanderbleek-a-widespread-error-in-unification-algorithms/)
