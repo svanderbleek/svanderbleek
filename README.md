@@ -4,7 +4,7 @@ This is my professional portfolio. If you'd like to chat, I'm always interested 
 
 ## Some Background
 
-* Check out my pins, they are 4 of my favorite languages: Kotlin, Go, Haskell, and Python
+* Check out my pins, they are in some of my favorite languages: Kotlin, Go, Haskell, and Python
 * My online teaching has 5 star reviews on [codementor](https://www.codementor.io/@svanderbleek)
 * Have spoken at meetups and conferences, here's a short Papers We Love NYC talk on [unification](https://paperswelove.org/2018/video/sandy-vanderbleek-a-widespread-error-in-unification-algorithms/)
 * Went to Oregon Programming Languages Summer School in [2017](https://www.cs.uoregon.edu/research/summerschool/summer17/participants.php)
