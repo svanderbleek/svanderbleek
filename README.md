@@ -1,6 +1,6 @@
 ## Hi 👋
 
-This is my small portfolio. If you'd like to chat DM me on X.
+This is a brief portfolio. If you'd like to chat DM me on X.
 
 ## Some Background
 
