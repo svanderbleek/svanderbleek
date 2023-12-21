@@ -1,6 +1,6 @@
 ## Hi 👋
 
-This is my professional portfolio. If you'd like to chat, I'm always interested in talking about computer science and the tech industry or offering early and mid career mentorship. Reach out to me on X.
+This is my small portfolio. If you'd like to chat DM me on X.
 
 ## Some Background
 
